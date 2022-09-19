@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @John21-dev
-- 👀 I’m interested in Web Develop
+- 👀 I’m interested in Web Develop and Data Analyst
 - 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on FrontEnd projects
+- 💞️ I’m looking to collaborate on FrontEnd projects and Data Analysis
 - 📫 How to reach me jbmacera@gmail.com
 
 <!---
